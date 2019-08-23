@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Solution {
+public class Anagram {
  static boolean isAnagram(String a, String b) {
         
         String[] arr1 = a.trim().split("");
